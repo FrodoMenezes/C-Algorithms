@@ -1,2 +1,4 @@
-# C-Algorithms
- Algorithms and solutions developed in C++. Projects from the old GIT account.
+# C Algorithms
+ Algorithms, solutions and games developed in C++. Projects from the old GIT account.
+ 
+ 
